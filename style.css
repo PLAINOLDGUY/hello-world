@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(235, 250, 204);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+/*background-color: #60b347*/
+}
+
+p {
+  font-size: 25px;
+}
+.right {
+  background-color: rgb(105, 236, 171);
+  border: 3px solid wheat;
+  text-align: center;
+}
+
+.number {
+  font-size: 35px;
+  background-color: rgb(105, 236, 171);
+  text-align: center;
+  border: 3px solid wheat;
+}
